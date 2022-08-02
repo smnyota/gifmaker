@@ -1,4 +1,3 @@
-//Medium + Mild Challenge and Class Notes
 
 
 //1. async is needed to await
@@ -8,7 +7,7 @@
 
 console.log("Script running");
 
-// Helper function - gets a random integer up to (but not including) the maximum
+// Helper function - gets a random integer up to (but not including) the maximum.
 const getRandomInt = (max) => {
   return Math.floor(Math.random() * Math.floor(max));
 };
